@@ -24,7 +24,7 @@ public class Main {
 		list.add("Bravo");
 		list.add("Echo");
 		list.add("Delta");
-		list.add("Zulu");
+		list.add("Zulus");
 		
 		list.remove("Charlie");
 		
